@@ -17,6 +17,7 @@ This app fetches **real-time weather data** from the [OpenWeatherMap API](https:
 
 ## 📂 Project Structure  
 
+```
 WeatherForecastApp/
 │
 ├── Form1.cs # Main form logic (UI events, API call, parsing)
@@ -24,7 +25,7 @@ WeatherForecastApp/
 ├── Program.cs # App entry point
 ├── api_key.txt # Stores the OpenWeatherMap API key
 └── README.md # Project documentation
-
+```
 
 ---
 
