@@ -6,6 +6,7 @@ This app fetches **real-time weather data** from the [OpenWeatherMap API](https:
 ---
 
 ## ✨ Features  
+
 - 🌍 **Search by City** – Enter a city name to get current weather.  
 - 🌡️ **Temperature Display** – Shows temperature in Celsius.  
 - ☁️ **Weather Condition** – Displays condition (e.g., Clear Sky, Rain, Clouds).  
@@ -15,6 +16,7 @@ This app fetches **real-time weather data** from the [OpenWeatherMap API](https:
 ---
 
 ## 📂 Project Structure  
+
 WeatherForecastApp/
 │
 ├── Form1.cs # Main form logic (UI events, API call, parsing)
@@ -27,6 +29,7 @@ WeatherForecastApp/
 ---
 
 ## 🛠️ Requirements  
+
 - Windows 10/11  
 - Visual Studio 2022 (Community Edition works fine)  
 - .NET Framework 4.7.2+ or .NET 6 (depending on project settings)  
@@ -57,6 +60,7 @@ cd WeatherForecastApp
 ---
 
 ## 📖 Usage Guide
+
 1. Enter a city name (e.g., `London`).
 2. Click Get Weather.
 3. Weather data will appear below:
@@ -68,16 +72,17 @@ Condition: clear sky
 ---
 
 ## 🖼️ Screenshots
-Main Window
+
+### Main Window
+
 <img width="378" height="183" alt="image" src="https://github.com/user-attachments/assets/46bb2278-e225-45d6-8ba7-5c59faa29396" />
 
 ---
 
 ## 🔮 Future Improvements
+
 - Show weather icons (sun, rain, cloud, etc.)
 - Add 5-day forecast view
 - Improve UI with modern design or dark mode
 - Save last searched city for quick access
 
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
